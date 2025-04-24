@@ -5,7 +5,7 @@ Creación de base de datos en la nube y despliegue de modelo de regresión.
 
 ### Integrantes
 * Esteban Ángel Pérez Mauraira
-* 0Javier Hernández Arellano
+* Javier Hernández Arellano
 * Leonardo Laureles Olmedo
 * Bernardo de Jesús Ortiz Rodriguez
 * Itzel Yacquelin Beltrán Reyes
