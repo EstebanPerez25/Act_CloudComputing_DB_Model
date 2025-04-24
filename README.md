@@ -4,11 +4,11 @@ Creación de base de datos en la nube y despliegue de modelo de regresión.
 **Equipo:** Idememes
 
 ### Integrantes
-Esteban Ángel Pérez Mauraira
-Javier Hernández Arellano
-Leonardo Laureles Olmedo
-Bernardo de Jesús Ortiz Rodriguez
-Itzel Yacquelin Beltrán Reyes
+* Esteban Ángel Pérez Mauraira
+* 0Javier Hernández Arellano
+* Leonardo Laureles Olmedo
+* Bernardo de Jesús Ortiz Rodriguez
+* Itzel Yacquelin Beltrán Reyes
 
 ### Instrucciones para correr la API
 
