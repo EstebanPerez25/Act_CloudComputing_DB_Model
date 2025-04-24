@@ -27,4 +27,4 @@ Utilizamos la técnica de one hot encoding solamente para la variable 'Title' y 
 Luego, entrenamos un modelo de regresión para predecir la variable de fecha (ya convertida a números enteros) con base en las variables producidas por one hot encoding. Obtuvimos resultados muy malos.
 
 
-Finalmente, desplegamos el modelo, creando un grypo de recursos en azure y subendo nuestro modelo. Luego lo utilizamos a través de una API.
+Finalmente, desplegamos el modelo, creando un grupo de recursos en azure y subendo nuestro modelo. Luego lo utilizamos a través de una API.
