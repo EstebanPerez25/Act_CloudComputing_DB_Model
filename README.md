@@ -19,6 +19,7 @@ Creación de base de datos en la nube y despliegue de modelo de regresión.
 
 ### Reporte de resultados
 
+Primero, creamos la base de datos en azure y luego nos conectamos a ella para verificarla. Luego descargamos un csv a partir de los datos, el cual se utilizaría para entrenar el modelo.
 
 Utilizamos la técnica de one hot encoding solamente para la variable 'Title' y transformamos los datos de fecha a números dependiendo de la fecha (la fecha más antigüa será un 0 e irá aumentando conforme pasen los días).
   
